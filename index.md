@@ -1,123 +1,39 @@
----
-layout: default
----
+Nishant Kumar's Data Science and Technical Projects
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The following are the key projects from the resume:
 
-[Link to another page](./another-page.html).
+TwittBird - Social Media Platform
 
-There should be whitespace between paragraphs.
+This project showcases expertise in building scalable, real-time applications, which often involves complex data handling and algorithm design.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+    Description: Developed a scalable, real-time social media platform.
 
-# Header 1
+    Key Features: Included infinite scrolling and a real-time search functionality.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+    Technology Stack: Applied React for the frontend and Node.js for the backend.
 
-## Header 2
+Image Encryption using Chaotic Map: Cryptography Project
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+This project highlights a strong foundation in applying advanced mathematical and computational concepts to solve security problems.
 
-### Header 3
+    Core Concept: Developed a research project to implement encryption and decryption techniques based on chaotic maps.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+    Methodology: Applied chaos theory with methods like Logistic Maps and Henon Maps for generating encryption keys, which enhances unpredictability.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+    Evaluation: Used statistical measures such as correlation coefficient and entropy to evaluate the effectiveness of the encryption.
 
-#### Header 4
+    Performance: Achieved an encryption time of 3.45 ms.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Research and Technical Skills
 
-##### Header 5
+Relevant Work Experience
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Nishant also has direct research experience in the domain of security and algorithms:
 
-###### Header 6
+    Research Intern (Delhi Technological University): Conducted in-depth research on cryptographic algorithms and network security protocols.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+    Key Achievement: Developed and implemented a secure communication protocol, enhancing data security by 30%.
 
-### There's a horizontal rule below this.
+Technical and Academic Skills
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Nishant Kumar's technical foundation is well-suited for a career in Data Science and Machine Learning:
